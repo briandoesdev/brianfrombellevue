@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong><a href="https://www.briandoes.dev">Official Website</a></strong> |
-  <strong><a href="https://twitter.com/brianfrombellevue">Twitter</a></strong> |
+  <strong><a href="https://twitter.com/briandoesdev">Twitter</a></strong> |
   <strong><a href="https://www.linkedin.com/in/brian-heidrich-2ab90488/">LinkedIn</a></strong> |
-  <strong><a href="https://www.twitch.tv/brianfrombellevue">Twitch</a></strong>
+  <strong><a href="https://www.twitch.tv/briandoesdev">Twitch</a></strong>
 </p>
