@@ -1,7 +1,7 @@
-<p>
+<!--<p>
   <a href=""><img src="" alt="brianfrombellevue Banner"></a>
-</p>
-<h1>Welcome to my GitHub profile~ OwO</h1>
+</p>-->
+<h1>Welcome to my GitHub profile</h1>
 
 <p>
   <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=brianfrombellevue&hide_border=true&show_icons=true" alt="brianfrombellevue's github stats"></a>
