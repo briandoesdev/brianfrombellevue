@@ -1,16 +1,17 @@
-### Hi there 👋
+<p>
+  <a href=""><img src="" alt="brianfrombellevue Banner"></a>
+</p>
+<h1>Welcome to my GitHub profile~ OwO</h1>
 
-<!--
-**brianfrombellevue/brianfrombellevue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=brianfrombellevue&hide_border=true&show_icons=true" alt="brianfrombellevue's github stats"></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong><a href="https://www.briandoes.dev">Official Website</a></strong> |
+  <strong><a href="https://twitter.com/brianfrombellevue">Twitter</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/brian-heidrich-2ab90488/">LinkedIn</a></strong> |
+  <strong><a href="https://www.twitch.tv/brianfrombellevue">Twitch</a></strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I'm currently working as a Cyber Security Analyst for United States Strategic Command</p>
